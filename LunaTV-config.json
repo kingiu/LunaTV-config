@@ -56,11 +56,6 @@
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
     },
-    "ruyi": {
-      "name": "🎬如意资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com"
-    },
     "collectwolongzy": {
       "name": "🎬卧龙资源1",
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",

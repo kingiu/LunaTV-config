@@ -41,11 +41,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://lzizy.net"
     },
-    "dyttzy": {
-      "name": "🎬电影天堂",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
     "1080y": {
       "name": "🎬优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
@@ -170,11 +165,6 @@
       "name": "🎬速播资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
       "detail": "www.subozy.com"
-    },
-    "xiaomaomi": {
-      "name": "🎬小猫咪",
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "detail": "http://zy.xmm.hk"
     },
     "huyaapi": {
       "name": "🎬虎牙资源",
@@ -330,11 +320,6 @@
       "name": "🔞美少女",
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
-    },
-    "aosikazy": {
-      "name": "🔞奥斯卡",
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "detail": "https://aosikazy.com"
     },
     "Naixxzy": {
       "name": "🔞奶香资源",

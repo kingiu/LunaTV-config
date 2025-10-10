@@ -489,10 +489,6 @@
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
     },
-    "qiqiqiqi": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
-    },
     "yingshigongchang": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"

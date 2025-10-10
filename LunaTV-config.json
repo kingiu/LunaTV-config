@@ -61,11 +61,6 @@
       "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
-    "zy360": {
-      "name": "🎬360资源",
-      "api": "https://360zy.com/api.php/provide/vod",
-      "detail": "https://360zy.com"
-    },
     "collectwolongzy": {
       "name": "🎬卧龙资源1",
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",

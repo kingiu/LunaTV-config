@@ -65,11 +65,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
     },
-    "mozhuazy": {
-      "name": "🎬魔爪资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod",
-      "detail": "https://mozhuazy.com"
-    },
     "ffzy": {
       "name": "🎬非凡影视",
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -339,11 +334,6 @@
       "name": "TV-丫丫点播",
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "detail": "https://cj.yayazy.net"
-    },
-    "api_12": {
-      "name": "TV-卧龙资源",
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-      "detail": ""
     },
     "api_15": {
       "name": "TV-如意资源",

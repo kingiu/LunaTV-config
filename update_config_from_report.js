@@ -3,6 +3,8 @@ const path = require('path');
 
 const reportPath = path.join(__dirname, 'report.md');
 const configPath = path.join(__dirname, 'LunaTV-config.json');
+const jin18Path = path.join(__dirname, 'jin18.json');
+const jingjianPath = path.join(__dirname, 'jingjian.json');
 const MIN_AVAILABILITY = 98.0; // 最小可用率阈值
 
 // 读取 report.md
@@ -133,6 +135,25 @@ if (deletedApis.length > 0) {
         console.log(`${index + 1}. ${api.name} (${api.key}): ${api.reason}`);
     });
 }
+
+// 拷贝非成人内容到jin18.json（清空原内容）
+const jin18Config = JSON.parse(JSON.stringify(config)); // 深拷贝
+jin18Config.api_site = {}; // 清空api_site
+
+Object.entries(filteredApiSite).forEach(([key, apiInfo]) => {
+    // 检查API名称是否不包含🔞（非成人内容）
+    if (!apiInfo.name || !apiInfo.name.startsWith('🔞')) {
+        jin18Config.api_site[key] = apiInfo;
+    }
+});
+
+// 写回jin18.json
+fs.writeFileSync(jin18Path, JSON.stringify(jin18Config, null, 2), 'utf-8');
+console.log(`✅ jin18.json 已更新，包含 ${Object.keys(jin18Config.api_site).length} 个非成人内容`);
+
+// 清空jingjian.json并拷贝LunaTV-config.json内容
+fs.writeFileSync(jingjianPath, JSON.stringify(config, null, 2), 'utf-8');
+console.log(`✅ jingjian.json 已更新，已清空并拷贝LunaTV-config.json内容`);
 
 // 导出函数以便在其他脚本中使用（如果需要）
 module.exports = {

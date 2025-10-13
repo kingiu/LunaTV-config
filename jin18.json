@@ -26,11 +26,6 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy.me"
     },
-    "ikun": {
-      "name": "🎬iKun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "detail": "https://ikunzy.com"
-    },
     "lzi": {
       "name": "🎬量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",

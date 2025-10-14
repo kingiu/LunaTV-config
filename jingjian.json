@@ -275,11 +275,6 @@
       "api": "https://api.zuiseapi.com/api.php/provide/vod",
       "detail": "https://zuisezy.com"
     },
-    "douapi": {
-      "name": "🔞豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "detail": "https://doudouzy.com"
-    },
     "xzybb2": {
       "name": "🔞滴滴资源",
       "api": "https://api.ddapi.cc/api.php/provide/vod",

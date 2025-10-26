@@ -45,11 +45,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
     },
-    "ffzy": {
-      "name": "🎬非凡影视",
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "detail": "https://cj.ffzyapi.com"
-    },
     "bfzy": {
       "name": "🎬暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",

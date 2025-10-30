@@ -135,11 +135,6 @@
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "detail": "https://caiji.moduapi.cc"
     },
-    "/91md.me": {
-      "name": "🔞91麻豆",
-      "api": "https://91md.me/api.php/provide/vod",
-      "detail": "https://91md.me"
-    },
     "lbapiby": {
       "name": "🔞AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",

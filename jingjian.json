@@ -1,11 +1,6 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "aqyzy": {
-      "name": "🎬爱奇艺",
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "detail": "https://iqiyizyapi.com"
-    },
     "tyyszyapi": {
       "name": "🎬天涯影视",
       "api": "https://tyyszy.com/api.php/provide/vod",

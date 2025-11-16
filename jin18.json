@@ -105,11 +105,6 @@
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.net"
     },
-    "p2100": {
-      "name": "🎬飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net"
-    },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "🎬光速资源",

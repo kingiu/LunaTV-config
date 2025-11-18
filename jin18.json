@@ -45,11 +45,6 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "detail": "https://yhzy.cc"
     },
-    "wujincom": {
-      "name": "🎬无尽资源1",
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "detail": "https://wujinzy.com"
-    },
     "xsd_sdzyapi": {
       "name": "🎬索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",

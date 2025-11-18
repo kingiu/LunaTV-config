@@ -45,11 +45,6 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "detail": "https://yhzy.cc"
     },
-    "wujincom": {
-      "name": "🎬无尽资源1",
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "detail": "https://wujinzy.com"
-    },
     "xsd_sdzyapi": {
       "name": "🎬索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
@@ -145,11 +140,6 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
     },
-    "yyzy": {
-      "name": "🔞优优资源",
-      "api": "https://www.yyzywcj.com/api.php/provide/vod",
-      "detail": "https://www.yyzywcj.com"
-    },
     "xjzy": {
       "name": "🔞小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -189,11 +179,6 @@
       "name": "🔞幸资源",
       "api": "https://xzybb2.com/api.php/provide/vod",
       "detail": "https://xzytv.com"
-    },
-    "zuiseapi": {
-      "name": "🔞最色资源",
-      "api": "https://api.zuiseapi.com/api.php/provide/vod",
-      "detail": "https://zuisezy.com"
     },
     "xzybb2": {
       "name": "🔞滴滴资源",

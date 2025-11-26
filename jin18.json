@@ -95,11 +95,6 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "detail": ""
     },
-    "api_9": {
-      "name": "TV-丫丫点播",
-      "api": "https://cj.yayazy.net/api.php/provide/vod",
-      "detail": "https://cj.yayazy.net"
-    },
     "api_20": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",

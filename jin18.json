@@ -6,11 +6,6 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
     },
-    "ckzy.me": {
-      "name": "🎬CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me"
-    },
     "lzi": {
       "name": "🎬量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",

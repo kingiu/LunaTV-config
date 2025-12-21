@@ -65,11 +65,6 @@
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "detail": "https://jinyingzy.com"
     },
-    "jyzyapi": {
-      "name": "🎬金鹰资源",
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "detail": "https://jinyingzy.net"
-    },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "🎬光速资源",

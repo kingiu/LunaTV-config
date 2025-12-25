@@ -95,11 +95,6 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
     },
-    "api_43": {
-      "name": "TV-金鹰资源",
-      "api": "https://jyzyapi.com/api.php/provide/vod",
-      "detail": "https://jyzyapi.com"
-    },
     "api_60": {
       "name": "AV-淫水机资源",
       "api": "https://www.xrbsp.com/api/json.php",

@@ -21,10 +21,6 @@
       "name": "极速资源",
       "detail": "https://jszyapi.com"
     },
-    "mdzy": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
-    },
     "zuid": {
       "name": "🎬最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
